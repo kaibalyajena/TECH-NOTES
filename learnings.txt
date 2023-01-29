@@ -1,0 +1,12 @@
+1. npm init -y  -- makes package json and package lock json files.
+2. __dirname -- local variable having the full location/path of the current directory.
+3. npm run dev -- uses dev dependencies(nodemon) which we have specified in the package json
+4. app.listen(port,()=>{})
+5. app.use()
+6. app.all()
+7. router.get()
+8. module.exports=router
+9. making a root home page(root.js)
+10. making 404 not found page
+11. path.join() -- no need to use slashes -- will not harm either
+11. middleware -- between http req and api res -- adds functionality and preliminary request processing -- buildin -- custom -- thirdparty
